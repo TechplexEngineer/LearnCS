@@ -52,7 +52,7 @@ with the node modules in this git repository, is 64-bit.)
 
 1. Ensure that required packages are installed
 
-    `apt-get install git sqlite3 nodejs`
+    `apt-get install git sqlite3 nodejs make`
 
 1. Obtain
    <span style="font-family: 'trebuchet ms', arial, helvetica, sans-serif !important;'">
